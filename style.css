@@ -1,20 +1,34 @@
-body {
-    background-color: #2C2827
-    ;
-  }
-  
-  h1 {
-    color: white;
-    text-align: center;
-  }
-  
-  p {
-    font-family: verdana;
-    font-size: 20px;
-  }
+.ww{
+    background-color: blue;
+}
 
-  p {
-    text-align: center;
-    color: red;
-  }
-  
+.www{
+    background-color: rgb(43, 107, 226);
+}
+
+.wwww{
+    background-color: chartreuse;
+}
+
+.wwwww{
+    background-color: brown;
+}
+
+.d{
+background-color: darkorange;
+}
+
+.ddd{
+    background-color: violet;
+}
+
+.dddd{
+ background-color: darkcyan ;
+}
+
+
+
+
+body{
+background-color: blueviolet;
+}
